@@ -1,3 +1,3 @@
-**Etude de marché et optimisation d'un prototype de dessalement par energie solaire thermique:**
+**Etude de marché et optimisation d'un prototype de déssalement des eaux salines en utilisant l'énergie solaire thermique:**
 
-C'est un projet d'une etudiant de Emines, qui s'est pris apres l'ecole elle meme qui etait notre client dans ce projet.
+C'est un projet avec un client réel, qui est une étudiante à l'EMINES voulait créer une startup qui va comercialiser ce type de technologie.
